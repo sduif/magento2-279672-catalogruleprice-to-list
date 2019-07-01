@@ -1,0 +1,1 @@
+# magento2-279672-catalogruleprice-to-list
